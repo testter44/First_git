@@ -1,2 +1,7 @@
 # First_git
-Tis is my first project
+
+
+<h1>Git tutorial</h1>
+
+
+This is my first project
